@@ -9,4 +9,4 @@
 Project Link: https://scratch.mit.edu/projects/663548245/
 
 Game view:
-![Game view](./Hunter in the Aquarium.png)
+[Game view](Hunter in the Aquarium.png)
