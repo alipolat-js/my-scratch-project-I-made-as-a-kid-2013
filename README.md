@@ -9,4 +9,5 @@
 Project Link: https://scratch.mit.edu/projects/663548245/
 
 Game view:
-![Game view](./Hunter in the Aquarium.png)
+
+![Game view](https://github.com/alipolat-js/my-scratch-project-I-made-as-a-kid-2013/blob/main/Hunter in the Aquarium.png?raw=true)
