@@ -7,3 +7,6 @@
 **_My projects, in which I took my first steps in the sector, really touched me._**
 
 Project Link: https://scratch.mit.edu/projects/663548245/
+
+Game view:
+![Game view](Hunter in the Aquarium.png)
