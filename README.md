@@ -1,0 +1,2 @@
+# my-scratch-project-I-made-as-a-kid-2013
+I've been involved in software development since I was 7 years old and I found one of my first projects that I made from a very old disc. This project was made in 2013 for my school assignment with Scratch 1.4. I hope I can find my projects that I made with html in primary school. My projects, in which I took my first steps in the sector, really touched me.
